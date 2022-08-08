@@ -1,2 +1,2 @@
 # ArquitecturaComputadores
-Tareas, Talleres y Proyectos
+Tareas, Sesiones asincronicas y Proyectos
