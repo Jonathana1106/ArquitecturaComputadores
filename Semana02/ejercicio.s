@@ -1,7 +1,7 @@
 
 
 start:
-    li a1, 0x71
+    li a1, 0x47
     li a2, 0x100
     sw a1, 0(a2)
     li a3, 0x0
@@ -17,11 +17,11 @@ lsfr:
     srli t5, a1, 0x1
     add a1, t5, t4
 
-check:
-    addi a3,a3,0x1
-    addi a2,a2,0x4
-    sw a1,0(a2)
-    blt a3,a4,lsfr
+checking:
+    addi a3, a3, 0x1
+    addi a2, a2, 0x4
+    sw a1, 0(a2)
+    blt a3, a4, lsfr
     j end
 
 end:
