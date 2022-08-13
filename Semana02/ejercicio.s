@@ -1,5 +1,5 @@
 ###############################################
-#	8-bit pseudo-random number generator(LSFR)#
+# ASM: Generador de n´umeros pseudo-aleatorios#
 #                                             #
 #	@ Polinomio                               #
 #	P(x) = x^6 + x^5 + 1                      #
