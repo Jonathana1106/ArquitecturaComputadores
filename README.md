@@ -1,5 +1,4 @@
-# ArquitecturaComputadores
-
+# Arquitectura de Computadores I
 
 ## Sesion asincronica semana 02
 
