@@ -1,0 +1,3 @@
+./configure --prefix=/opt/riscv --with-arch=rv32i --with-abi=ilp32 && make linux -j$(nproc) && sudo make install
+
+/opt/riscv/bin/riscv32-unknown-linux-gnu-ld
