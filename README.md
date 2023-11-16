@@ -40,3 +40,5 @@ números en un orden secuencial aleatorio, cabe destacar que este generador tien
 En la siguiente imagen se puede apreciar lo descrito anteriormente.
 
 ![lfsr](https://raw.githubusercontent.com/nikeshbajaj/Linear_Feedback_Shift_Register/master/images/LFSR.jpg)
+
+## Taller MPI
